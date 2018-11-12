@@ -1,0 +1,38 @@
+D:\Desarrollo de Software\4-Codificación\C#\Ejercicios\C#\1-Consola\ArreglosClases\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.dll.config
+D:\Desarrollo de Software\4-Codificación\C#\Ejercicios\C#\1-Consola\ArreglosClases\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.dll
+D:\Desarrollo de Software\4-Codificación\C#\Ejercicios\C#\1-Consola\ArreglosClases\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.pdb
+D:\Desarrollo de Software\4-Codificación\C#\Ejercicios\C#\1-Consola\ArreglosClases\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.csprojResolveAssemblyReference.cache
+D:\Desarrollo de Software\4-Codificación\C#\Ejercicios\C#\1-Consola\ArreglosClases\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.dll
+D:\Desarrollo de Software\4-Codificación\C#\Ejercicios\C#\1-Consola\ArreglosClases\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.pdb
+C:\Users\APRENDIZ\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.dll.config
+C:\Users\APRENDIZ\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.dll
+C:\Users\APRENDIZ\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.pdb
+C:\Users\APRENDIZ\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\bin\CAD.dll
+C:\Users\APRENDIZ\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\bin\DTO.dll
+C:\Users\APRENDIZ\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\bin\CAD.pdb
+C:\Users\APRENDIZ\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\bin\DTO.pdb
+C:\Users\APRENDIZ\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.dll
+C:\Users\APRENDIZ\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\bin\CAD.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\bin\DTO.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\bin\CAD.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\bin\DTO.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.dll
+C:\Users\LENOVO\Documents\Visual Studio 2013\Projects\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.pdb
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.csprojAssemblyReference.cache
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.dll
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.dll.config
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.dll
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.pdb
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\bin\CAD.dll
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\bin\DTO.dll
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\bin\CAD.pdb
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\bin\DTO.pdb
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.csproj.CopyComplete
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.pdb

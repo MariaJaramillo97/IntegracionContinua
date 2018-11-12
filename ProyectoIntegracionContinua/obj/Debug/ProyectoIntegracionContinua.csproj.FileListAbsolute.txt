@@ -1,0 +1,12 @@
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.dll.config
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.dll
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\bin\EjercicioResponsive.pdb
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\bin\CAD.dll
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\bin\DTO.dll
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\bin\CAD.pdb
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\bin\DTO.pdb
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\obj\Debug\ProyectoIntegracionContinua.csprojAssemblyReference.cache
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\obj\Debug\ProyectoIntegracionContinua.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\obj\Debug\ProyectoIntegracionContinua.csproj.CopyComplete
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.dll
+C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.pdb
