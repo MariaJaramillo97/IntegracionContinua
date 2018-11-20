@@ -10,14 +10,13 @@ namespace DTO
     {
 
 
-        private int idFactura { get; set; }
-        private string observaciones { get; set; }
-        private double totalPeso { get; set; }
-        private double iva { get; set; }
-        private double subtotal { get; set; }
-        private double total { get; set; }
-        private string cliente { get; set; }
-        private DateTime fecha { get; set; }
+        public int idFactura { get; set; }
+        public string observaciones { get; set; }
+        public double iva { get; set; }
+        public double subtotal { get; set; }
+        public double total { get; set; }
+        public string cliente { get; set; }
+        public DateTime fecha { get; set; }
 
 
 

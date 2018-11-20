@@ -8,13 +8,13 @@ namespace DTO
 {
    public  class DetalleFactura
     {
-        private int idDetalleFactura { get; set; }
-        private int idFactura { get; set; }
-        private double precioUnitario { get; set; }
-        private string idProducto { get; set; }
-        private double precioTotal { get; set; }
-        private string descripcion { get; set; }
-        private int cantidad { get; set; }
+        public int idDetalleFactura { get; set; }
+        public int idFactura { get; set; }
+        public double precioUnitario { get; set; }
+        public string idProducto { get; set; }
+        public double precioTotal { get; set; }
+        public string descripcion { get; set; }
+        public int cantidad { get; set; }
 
 
     }

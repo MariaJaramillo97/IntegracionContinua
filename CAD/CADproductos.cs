@@ -25,7 +25,7 @@ namespace CAD
                 //sentencia que se ejecutara
                 cmd.Connection = con;
                 // sentencia que se ejecutara
-                cmd.CommandText = "GestionVentas";
+                cmd.CommandText = "GestionProductos";
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddWithValue("@action", "insert");
                 cmd.Parameters.AddWithValue("@nombre", vt.nombre);
@@ -50,7 +50,7 @@ namespace CAD
 
 
 
-        public void modificarProducto(Productos vt)
+        public Exception modificarProducto(Productos vt)
         {
             string cadena = ConfigurationManager.ConnectionStrings["conSQLServer"].ConnectionString;
             SqlConnection con = new SqlConnection(cadena);
@@ -70,11 +70,11 @@ namespace CAD
             cmd.ExecuteNonQuery();
             con.Close();
 
-
+            return null;
 
         }
 
-        public void eliminarProducto(Productos vt)
+        public Exception eliminarProducto(Productos vt)
         {
             try
             {
@@ -85,7 +85,7 @@ namespace CAD
                 //sentencia que se ejecutara
                 cmd.Connection = con;
                 // sentencia que se ejecutara
-                cmd.CommandText = "GestionVentas";
+                cmd.CommandText = "GestionProductos";
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddWithValue("@action", "delete");
                 cmd.Parameters.AddWithValue("@nombre", vt.nombre);
@@ -95,14 +95,14 @@ namespace CAD
                 cmd.ExecuteNonQuery();
                 con.Close();
 
-
+               
             }
             catch (Exception ex)
             {
                 // MessageBox.Show("El registro se ha eliminado");
 
             }
-
+            return null;
         }
 
 
