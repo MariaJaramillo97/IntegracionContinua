@@ -12,7 +12,7 @@ namespace DTO
         public string marca { get; set; }
         public string precio { get; set; }
         public string descripcion { get; set; }
-
+        public string cantidadStock { get; set; }
 
     }
 }

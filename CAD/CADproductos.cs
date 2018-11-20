@@ -7,13 +7,12 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace CAD
 {
   public   class CADproductos
     {
 
-        public void insertarProducto(Productos vt)
+        public Exception insertarProducto(Productos vt)
  {
        
             try
@@ -44,7 +43,7 @@ namespace CAD
             {
 
             }
-
+            return null;
 
 
         }

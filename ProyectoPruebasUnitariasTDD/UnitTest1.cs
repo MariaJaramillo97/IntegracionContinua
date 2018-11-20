@@ -14,15 +14,18 @@ namespace ProyectoPruebasUnitariasTDD
         [TestMethod]
         public void PruebaIngresarProducto()
         {
-       
-             string resultadoEsperado;
-             string resultadoObtenido;
+
+            Exception lst = new Exception();
+
+            Productos pr = new Productos();
+            pr = null;
+            lst = cad.insertarProducto(pr);
+            string resultadoEsperado = (0).ToString();
+            Exception resultadoObtenido = lst;
+
+            Assert.AreNotEqual(resultadoEsperado, resultadoObtenido);
            
-
-             cad.insertarProducto(pr);
-
-
-
+          
 
         }
 

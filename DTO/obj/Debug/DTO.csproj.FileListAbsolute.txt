@@ -9,3 +9,9 @@ C:\Users\Maria\Documents\EjercicioResponsive\DTO\obj\Debug\DTO.csprojAssemblyRef
 C:\Users\Maria\Documents\EjercicioResponsive\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 C:\Users\Maria\Documents\EjercicioResponsive\DTO\obj\Debug\DTO.dll
 C:\Users\Maria\Documents\EjercicioResponsive\DTO\obj\Debug\DTO.pdb
+C:\Users\Maria\source\repos\IntegracionContinua\DTO\bin\Debug\DTO.dll
+C:\Users\Maria\source\repos\IntegracionContinua\DTO\bin\Debug\DTO.pdb
+C:\Users\Maria\source\repos\IntegracionContinua\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\IntegracionContinua\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\IntegracionContinua\DTO\obj\Debug\DTO.dll
+C:\Users\Maria\source\repos\IntegracionContinua\DTO\obj\Debug\DTO.pdb
