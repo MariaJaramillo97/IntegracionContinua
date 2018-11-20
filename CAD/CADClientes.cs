@@ -9,6 +9,10 @@ namespace CAD
     public class CADClientes
     {
 
+        private int cedula { get; set; }
+        private string correo { get; set; }
+        private string nombres { get; set; }
+        private string apellidos { get; set; }
 
 
     }
