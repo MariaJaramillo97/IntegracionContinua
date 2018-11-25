@@ -8,7 +8,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace EjercicioResponsive
+namespace ProyectoIntegracionContinua
 {
     public partial class login : System.Web.UI.Page
     {

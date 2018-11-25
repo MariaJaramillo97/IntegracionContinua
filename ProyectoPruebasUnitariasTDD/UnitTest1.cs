@@ -10,14 +10,14 @@ namespace ProyectoPruebasUnitariasTDD
     {
 
         CADproductos cad = new CADproductos();
-        Productos pr = new Productos();
+        Producto pr = new Producto();
         [TestMethod]
         public void PruebaIngresarProducto()
         {
 
             Exception lst = new Exception();
 
-            Productos pr = new Productos();
+            Producto pr = new Producto();
             pr = null;
             lst = cad.insertarProducto(pr);
             string resultadoEsperado = (0).ToString();

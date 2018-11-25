@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Factura.aspx.cs" Inherits="EjercicioResponsive.Factura" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Facturas.aspx.cs" Inherits="ProyectoIntegracionContinua.Factura" %>
 
 <!DOCTYPE html>
 

@@ -12,7 +12,7 @@ namespace CAD
   public   class CADproductos
     {
 
-        public Exception insertarProducto(Productos vt)
+        public Exception insertarProducto(Producto vt)
  {
        
             try
@@ -50,7 +50,7 @@ namespace CAD
 
 
 
-        public Exception modificarProducto(Productos vt)
+        public Exception modificarProducto(Producto vt)
         {
             string cadena = ConfigurationManager.ConnectionStrings["conSQLServer"].ConnectionString;
             SqlConnection con = new SqlConnection(cadena);
@@ -74,7 +74,7 @@ namespace CAD
 
         }
 
-        public Exception eliminarProducto(Productos vt)
+        public Exception eliminarProducto(Producto vt)
         {
             try
             {

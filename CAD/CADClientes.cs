@@ -14,7 +14,7 @@ namespace CAD
     {
 
 
-        public Exception insertarClientes(Clientes vt)
+        public Exception insertarClientes(Cliente vt)
         {
 
             try
@@ -51,7 +51,7 @@ namespace CAD
         }
 
 
-        public Exception modificarClientes(Clientes vt)
+        public Exception modificarClientes(Cliente vt)
         {
             string cadena = ConfigurationManager.ConnectionStrings["conSQLServer"].ConnectionString;
             SqlConnection con = new SqlConnection(cadena);
@@ -75,7 +75,7 @@ namespace CAD
 
         }
 
-        public Exception eliminarCliente(Clientes vt)
+        public Exception eliminarCliente(Cliente vt)
         {
             try
             {
