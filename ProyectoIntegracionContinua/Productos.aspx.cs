@@ -16,7 +16,46 @@ namespace ProyectoIntegracionContinua
         {
 
         }
+ 		protected void Insertar_Click(object sender, EventArgs e)
+        {
+            
+            Producto vts = new Producto();
+            vts.nombre = nombre.Text;
+            vts.marca = marca.Text;
+            vts.precio = precio.Text;
+            vts.descripcion = descripcion.Text;
 
+            CADproductos datos = new CADproductos();
+            datos.insertarProducto(vts);
+        }
+
+        protected void Modificar_Click(object sender, EventArgs e)
+        {
+            Producto vts = new Producto();
+
+            vts.marca = marca.Text;
+            vts.precio = precio.Text;
+            vts.descripcion = descripcion.Text;
+
+
+            CADproductos datos = new CADproductos();
+            datos.modificarProducto(vts);
+        }
+
+        protected void Eliminar_Click(object sender, EventArgs e)
+        {
+            Producto vts = new Producto();
+            vts.nombre = nombre.Text;
+
+
+            CADproductos datos = new CADproductos();
+            datos.eliminarProducto(vts);
+        }
+
+        protected void Consultar_Click(object sender, EventArgs e)
+        {
+
+        }
 
    
 
