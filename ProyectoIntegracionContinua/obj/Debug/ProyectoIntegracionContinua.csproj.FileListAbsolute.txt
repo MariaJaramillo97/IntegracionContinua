@@ -10,3 +10,16 @@ C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\obj\Debug\Proye
 C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\obj\Debug\ProyectoIntegracionContinua.csproj.CopyComplete
 C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.dll
 C:\Users\Maria\Documents\EjercicioResponsive\EjercicioResponsive\obj\Debug\EjercicioResponsive.pdb
+C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\bin\EjercicioResponsive.dll.config
+C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\bin\EjercicioResponsive.dll
+C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\bin\EjercicioResponsive.pdb
+C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\bin\CAD.dll
+C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\bin\DTO.dll
+C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\bin\CAD.pdb
+C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\bin\CAD.dll.config
+C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\bin\DTO.pdb
+C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\obj\Debug\ProyectoIntegracionContinua.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\obj\Debug\ProyectoIntegracionContinua.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\obj\Debug\ProyectoIntegracionContinua.csproj.CopyComplete
+C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\obj\Debug\EjercicioResponsive.dll
+C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\obj\Debug\EjercicioResponsive.pdb
