@@ -52,7 +52,10 @@ namespace CAD
 
         public Exception modificarProducto(Producto vt)
         {
-            string cadena = ConfigurationManager.ConnectionStrings["conSQLServer"].ConnectionString;
+
+            try
+            {
+                string cadena = ConfigurationManager.ConnectionStrings["conSQLServer"].ConnectionString;
             SqlConnection con = new SqlConnection(cadena);
             SqlCommand cmd = new SqlCommand();
             //sentencia que se ejecutara
@@ -69,7 +72,12 @@ namespace CAD
             con.Open();
             cmd.ExecuteNonQuery();
             con.Close();
+            }
+            catch (Exception ex)
+            {
+                // MessageBox.Show("El registro se ha eliminado");
 
+            }
             return null;
 
         }
