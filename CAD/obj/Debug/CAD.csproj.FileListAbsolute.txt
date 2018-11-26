@@ -37,3 +37,17 @@ C:\Users\Maria\source\repos\IntegracionContinua\CAD\obj\Debug\CAD.csproj.CoreCom
 C:\Users\Maria\source\repos\IntegracionContinua\CAD\obj\Debug\CAD.csproj.CopyComplete
 C:\Users\Maria\source\repos\IntegracionContinua\CAD\obj\Debug\CAD.dll
 C:\Users\Maria\source\repos\IntegracionContinua\CAD\obj\Debug\CAD.pdb
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\CAD\bin\Debug\CAD.dll.config
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\CAD\bin\Debug\CAD.dll
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\CAD\bin\Debug\CAD.pdb
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\CAD\bin\Debug\DTO.dll
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\CAD\bin\Debug\EntityFramework.dll
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\CAD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\CAD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\CAD\bin\Debug\DTO.pdb
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\CAD\bin\Debug\EntityFramework.xml
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\CAD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\CAD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\CAD\obj\Debug\CAD.dll
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\CAD\obj\Debug\CAD.pdb

@@ -23,3 +23,14 @@ C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\obj\
 C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\obj\Debug\ProyectoIntegracionContinua.csproj.CopyComplete
 C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\obj\Debug\EjercicioResponsive.dll
 C:\Users\Maria\source\repos\IntegracionContinua\ProyectoIntegracionContinua\obj\Debug\EjercicioResponsive.pdb
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\ProyectoIntegracionContinua\bin\EjercicioResponsive.dll.config
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\ProyectoIntegracionContinua\bin\EjercicioResponsive.dll
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\ProyectoIntegracionContinua\bin\EjercicioResponsive.pdb
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\ProyectoIntegracionContinua\bin\CAD.dll
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\ProyectoIntegracionContinua\bin\DTO.dll
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\ProyectoIntegracionContinua\bin\CAD.pdb
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\ProyectoIntegracionContinua\bin\CAD.dll.config
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\ProyectoIntegracionContinua\bin\DTO.pdb
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\ProyectoIntegracionContinua\obj\Debug\ProyectoIntegracionContinua.csprojResolveAssemblyReference.cache
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\ProyectoIntegracionContinua\obj\Debug\EjercicioResponsive.dll
+C:\Users\Zaux\Documents\GitHub\IntegracionContinua\ProyectoIntegracionContinua\obj\Debug\EjercicioResponsive.pdb
