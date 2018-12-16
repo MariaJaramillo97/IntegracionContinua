@@ -1,6 +1,5 @@
 ﻿using CAD;
 using DTO;
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,9 +20,9 @@ namespace ProyectoIntegracionContinua
             
             Producto vts = new Producto();
             vts.nombre = nombre.Text;
-            vts.marca = marca.Text;
-            vts.precio = precio.Text;
-            vts.descripcion = descripcion.Text;
+            vts.marca = apellido.Text;
+            vts.precio = cedula.Text;
+            vts.descripcion = correo.Text;
 
             CADproductos datos = new CADproductos();
             datos.insertarProducto(vts);
@@ -33,9 +32,9 @@ namespace ProyectoIntegracionContinua
         {
             Producto vts = new Producto();
 
-            vts.marca = marca.Text;
-            vts.precio = precio.Text;
-            vts.descripcion = descripcion.Text;
+            vts.marca = apellido.Text;
+            vts.precio = cedula.Text;
+            vts.descripcion = correo.Text;
 
 
             CADproductos datos = new CADproductos();

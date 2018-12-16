@@ -31,31 +31,31 @@ namespace ProyectoIntegracionContinua {
         protected global::System.Web.UI.WebControls.TextBox nombre;
         
         /// <summary>
-        /// Control marca.
+        /// Control apellido.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox marca;
+        protected global::System.Web.UI.WebControls.TextBox apellido;
         
         /// <summary>
-        /// Control precio.
+        /// Control cedula.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox precio;
+        protected global::System.Web.UI.WebControls.TextBox cedula;
         
         /// <summary>
-        /// Control descripcion.
+        /// Control correo.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox descripcion;
+        protected global::System.Web.UI.WebControls.TextBox correo;
         
         /// <summary>
         /// Control Insertar.

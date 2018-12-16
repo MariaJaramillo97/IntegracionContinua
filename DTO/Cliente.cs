@@ -9,7 +9,7 @@ namespace DTO
     public class Cliente
     {
 
-        public int cedula { get; set; }
+        public string cedula { get; set; }
         public string correo { get; set; }
         public string nombres { get; set; }
         public string apellidos { get; set; }

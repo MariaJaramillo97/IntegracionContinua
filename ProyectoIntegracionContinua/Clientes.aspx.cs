@@ -16,5 +16,50 @@ namespace ProyectoIntegracionContinua
 
         }
 
+        protected void Insertar_Click(object sender, EventArgs e)
+        {
+
+            Cliente vts = new Cliente();
+            vts.nombres = nombres.Text;
+            vts.apellidos = apellidos.Text;
+            vts.correo = correo.Text;
+            vts.cedula = cedula.Text;
+
+
+            CADClientes datos = new CADClientes();
+            datos.insertarClientes(vts);
+        }
+
+        protected void Modificar_Click(object sender, EventArgs e)
+        {
+            Cliente vts = new Cliente();
+
+            vts.nombres = nombres.Text;
+            vts.apellidos = apellidos.Text;
+            vts.correo = correo.Text;
+
+
+            CADClientes datos = new CADClientes();
+            datos.modificarClientes(vts);
+        }
+
+        protected void Eliminar_Click(object sender, EventArgs e)
+        {
+            Cliente vts = new Cliente();
+            vts.nombres = nombres.Text;
+
+
+            CADClientes datos = new CADClientes();
+            datos.eliminarCliente(vts);
+        }
+
+        protected void Consultar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
+
+
     }
 }
