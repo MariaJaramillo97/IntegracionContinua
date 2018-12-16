@@ -1,1 +1,2 @@
-Language: c#
+language: csharp
+solution: ProyectoIntegracionContinua.sln
